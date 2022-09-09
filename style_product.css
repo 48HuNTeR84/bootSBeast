@@ -198,12 +198,12 @@
 }
 /* Стрелка влево */
 .slick-arrow.slick-prev {
-  background: url(/icon/left_arrow.png) 0 0 / 100% no-repeat;
+  background: url(icon/left_arrow.png) 0 0 / 100% no-repeat;
   left: 0;
 }
 /* Стрелка вправо */
 .slick-arrow.slick-next {
-  background: url(/icon/right_arrow.png) 0 0 / 100% no-repeat;
+  background: url(icon/right_arrow.png) 0 0 / 100% no-repeat;
   right: 0;
 }
 /* Стрелка не активная */
